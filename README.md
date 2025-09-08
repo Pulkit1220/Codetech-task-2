@@ -1,4 +1,16 @@
+# Singly Linked List in C
 
+## 🏢 Company Details
+**Company Name:** CodeTech IT Solutions Pvt.Ltd
+**Project Mentor:** Mr. Hemant Kumar
+
+## 👨‍💻 Student Details
+- **Name:** Pulkit Chauhan
+- **Designation:** Intern  
+- **Department:** Information Technology  
+- **College:** TMU Moradabad  
+
+---
 
 ## 📌 Project Title
 **Singly Linked List Implementation in C**
