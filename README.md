@@ -2,7 +2,7 @@
 
 ## 🏢 Company Details
 **Company Name:** CodeTech IT Solutions Pvt.Ltd
-**Project Mentor:** Mr. Hemant Kumar
+**Project Mentor:** Mr. Neela santosh kumar
 
 ## 👨‍💻 Student Details
 - **Name:** Pulkit Chauhan
